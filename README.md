@@ -1,6 +1,6 @@
 # everichinfo
 Everich info
-2016/02/13 修改
+2016/02/13 修改  
 1. general的orders增加country字段，需要修改展示，添加，编辑功能；  
 2. 报关资料生成时不要输入国别；  
 3. 出国计划中的港口修改为国别；  
