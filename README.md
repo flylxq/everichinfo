@@ -17,7 +17,7 @@ Everich info
 
 2016/03/19 修改  
 1. 订舱资料模板修改(添加Number to Word);  **Fixed**  
-2. 报关资料中的CI, PL修改，BG中毛重累计错误;  
+2. 报关资料中的CI, PL修改，BG中毛重累计错误;  **Fixed**  
 3. 页面中“通用客户”改为"TLA";   **Fixed**  
 4. 订舱资料中的添加箱号列，箱号从1开始，结束为箱数，按照Keycode排序;  **Fixed**  
 5. Schedule的输出中也添加箱号;  
